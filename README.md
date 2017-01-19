@@ -7,7 +7,7 @@ Download and place this plugin inside you plugins folder located at protected/ap
 
 Edit your config.php to activate the plugin and inform you Tracking ID: 
 
-```
+```PHP
 
 'plugins' => [
 
@@ -20,6 +20,6 @@ Edit your config.php to activate the plugin and inform you Tracking ID:
     ]
 ],
 
-```PHP
+```
 
 Your tracking is a string starting with "UA-". In order to get it, visit your Google Analytics panel. Go to the ADMIN tab, then under the "PROPERTY" column click on "Tracking info" and then "Tracking Code".
