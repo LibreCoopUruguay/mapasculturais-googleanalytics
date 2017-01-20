@@ -30,4 +30,8 @@ class Plugin extends \MapasCulturais\Plugin {
         
     }
 
+    public function register() {
+        
+    }
+    
 }
